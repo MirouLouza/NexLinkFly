@@ -83,7 +83,7 @@
     "minimatch": "9.0.5"
   },
   "scripts": {
-  "postinstall": "powershell -Command \"(Get-Content node_modules\\@shopify\\shopify-app-remix\\dist\\esm\\react\\components\\AppProvider\\AppProvider.mjs) -replace 'with \\{ type: \\'json\\' \\}', '' | Set-Content node_modules\\@shopify\\shopify-app-remix\\dist\\esm\\react\\components\\AppProvider\\AppProvider.mjs\""
+  "postinstall": "sed -i \"s/with { type: 'json' }//\" node_modules/@shopify/shopify-app-remix/dist/esm/react/components/AppProvider/AppProvider.mjs"
   },
   "author": "NILN"
 }
