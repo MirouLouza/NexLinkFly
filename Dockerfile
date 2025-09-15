@@ -48,4 +48,3 @@ EXPOSE 3000
 
 # Lancer le serveur Remix
 CMD ["npm", "run", "start"]
- 
