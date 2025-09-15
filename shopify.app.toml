@@ -1,0 +1,38 @@
+# Learn more about configuring your app at https://shopify.dev/docs/apps/tools/cli/configuration
+
+client_id = "80b31d1514b7c9125368654632ad21ff"
+name = "Sendup Whatsapp Abandoned Cart"
+application_url = "https://localhost:52942/"
+embedded = true
+handle = "nexlink"
+
+[build]
+automatically_update_urls_on_dev = true
+
+[webhooks]
+api_version = "2025-04"
+
+  [[webhooks.subscriptions]]
+  topics = [ "app/scopes_update" ]
+  uri = "https://localhost:3458/webhooks/app/scopes_update"
+
+  [[webhooks.subscriptions]]
+  topics = [ "app/uninstalled" ]
+  uri = "https://localhost:3458/webhooks/app/uninstalled"
+
+[access_scopes]
+# Learn more at https://shopify.dev/docs/apps/tools/cli/configuration#access_scopes
+scopes = "read_customers,read_orders,read_products"
+
+[auth]
+redirect_urls = [
+  "https://localhost:52942/auth/callback",
+  "https://localhost:52942/auth/shopify/callback",
+  "https://localhost:52942/api/auth/callback"
+]
+
+[pos]
+embedded = false
+
+[app_preferences]
+url = "https://nexlink0.com/preferences"

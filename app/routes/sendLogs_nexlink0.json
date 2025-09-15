@@ -1,0 +1,995 @@
+[
+  {
+    "resreq": {
+      "chatId": "212673252887@c.us",
+      "contentType": "string",
+      "content": "Bonjour 👋Vous avez laissé le panier #38623924126016. Finalisez votre commande ici : https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpWTUQ3M0hHTUgxRTNHN1owU0Y5UE5CTQ/recover?key=29b30d040bd7478a5a2befa11955dbfd&locale=en-MA",
+      "shop": "nexlink0"
+    },
+    "sentAt": "2025-05-30T13:43:55.336Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212673252887@c.us",
+      "contentType": "string",
+      "content": "Bonjour 👋Vous avez laissé le panier #38623924126016. Finalisez votre commande ici : https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpWTUQ3M0hHTUgxRTNHN1owU0Y5UE5CTQ/recover?key=29b30d040bd7478a5a2befa11955dbfd&locale=en-MA",
+      "shop": "nexlink0"
+    },
+    "sentAt": "2025-05-30T13:47:45.711Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212633458644@c.us",
+      "contentType": "string",
+      "content": "Bonjour 👋Vous avez laissé le panier #38627144270144. Finalisez votre commande ici : https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpWUEIwNDFKU0hOWDBINzZSRDlNTUJZNw/recover?key=28b8bb30166d068612eb47c768860bc8&locale=en-MA",
+      "shop": "nexlink0"
+    },
+    "sentAt": "2025-05-30T14:13:37.354Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212673252887@c.us",
+      "contentType": "string",
+      "content": "Bonjour 👋Vous avez laissé le panier #38623924126016. Finalisez votre commande ici : <a href=https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpWTUQ3M0hHTUgxRTNHN1owU0Y5UE5CTQ/recover?key=29b30d040bd7478a5a2befa11955dbfd&locale=en-MA>Voir le panier</a>",
+      "shop": "nexlink0"
+    },
+    "sentAt": "2025-05-30T17:05:26.800Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212633458644@c.us",
+      "contentType": "string",
+      "content": "Bonjour 👋Vous avez laissé le panier #38627144270144. Finalisez votre commande ici : https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpWUEIwNDFKU0hOWDBINzZSRDlNTUJZNw/recover?key=28b8bb30166d068612eb47c768860bc8&locale=en-MA",
+      "shop": "nexlink0"
+    },
+    "sentAt": "2025-06-02T13:58:40.845Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212633458644@c.us",
+      "contentType": "string",
+      "content": "Bonjour 👋Vous avez laissé le panier #38627144270144. Finalisez votre commande ici : https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpWUEIwNDFKU0hOWDBINzZSRDlNTUJZNw/recover?key=28b8bb30166d068612eb47c768860bc8&locale=en-MA",
+      "shop": "nexlink0"
+    },
+    "sentAt": "2025-06-02T14:06:29.989Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212633458644@c.us",
+      "contentType": "string",
+      "content": "Bonjour 👋Vous avez laissé le panier #38627144270144. Finalisez votre commande ici : https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpWUEIwNDFKU0hOWDBINzZSRDlNTUJZNw/recover?key=28b8bb30166d068612eb47c768860bc8&locale=en-MA",
+      "shop": "nexlink0"
+    },
+    "sentAt": "2025-06-02T14:07:47.194Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212633458644@c.us",
+      "contentType": "string",
+      "content": "Bonjour 👋Vous avez laissé le panier #38627144270144. Finalisez votre commande ici : https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpWUEIwNDFKU0hOWDBINzZSRDlNTUJZNw/recover?key=28b8bb30166d068612eb47c768860bc8&locale=en-MA",
+      "shop": "nexlink0",
+      "name": "#38627144270144"
+    },
+    "sentAt": "2025-06-02T14:10:43.896Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212633458644@c.us",
+      "contentType": "string",
+      "content": "Bonjour 👋Vous avez laissé le panier #38627144270144. Finalisez votre commande ici : https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpWUEIwNDFKU0hOWDBINzZSRDlNTUJZNw/recover?key=28b8bb30166d068612eb47c768860bc8&locale=en-MA",
+      "shop": "nexlink0",
+      "name": "#38627144270144"
+    },
+    "sentAt": "2025-06-02T14:12:15.898Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212633458644@c.us",
+      "contentType": "string",
+      "content": "Bonjour 👋Vous avez laissé le panier #38627144270144. Finalisez votre commande ici : https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpWUEIwNDFKU0hOWDBINzZSRDlNTUJZNw/recover?key=28b8bb30166d068612eb47c768860bc8&locale=en-MA",
+      "shop": "nexlink0",
+      "name": "#38627144270144"
+    },
+    "sentAt": "2025-06-02T14:15:13.710Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212633458644@c.us",
+      "contentType": "string",
+      "content": "Bonjour 👋Vous avez laissé le panier #38627144270144. Finalisez votre commande ici : https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpWUEIwNDFKU0hOWDBINzZSRDlNTUJZNw/recover?key=28b8bb30166d068612eb47c768860bc8&locale=en-MA",
+      "shop": "nexlink0",
+      "name": "#38627144270144"
+    },
+    "sentAt": "2025-06-03T08:11:37.736Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212673252887@c.us",
+      "contentType": "string",
+      "content": "Bonjour 👋Vous avez laissé le panier #38625032864064. Finalisez votre commande ici : https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpWTVpQOUUxQkNFS1NRTTBEWVZHQUFOWA/recover?key=ed4a058a5473f10031fcc934c08834ce&locale=en",
+      "shop": "nexlink0",
+      "name": "#38625032864064"
+    },
+    "sentAt": "2025-06-03T08:11:37.906Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212668508889@c.us",
+      "contentType": "string",
+      "content": "Bonjour 👋Vous avez laissé le panier #38671376384320. Finalisez votre commande ici : https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpXOU5LOTZYNTJKMEY3Mk1TUlNDNUUxVw/recover?key=38d8dda01dff67e5e32060582791e09a&locale=en-MA",
+      "shop": "nexlink0",
+      "name": "#38671376384320"
+    },
+    "sentAt": "2025-06-04T16:46:03.604Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212668508889@c.us",
+      "contentType": "string",
+      "content": "Bonjour 👋Vous avez laissé le panier #38671369634112. Finalisez votre commande ici : https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpXOU5HQ0daWjdCUFhGQlNXQllRWE1LTQ/recover?key=d955e6c4a5b9fb99249be903896d6054&locale=en-MA",
+      "shop": "nexlink0",
+      "name": "#38671369634112"
+    },
+    "sentAt": "2025-06-04T16:46:03.641Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212668508889@c.us",
+      "contentType": "string",
+      "content": "Bonjour 👋Vous avez laissé le panier #38661970035008. Finalisez votre commande ici : https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpXNk1SWVc5UkFCODMwQjJCN0hLRzRXMQ/recover?key=42f93117fedd2a25163c3bf701c4d00d&locale=en-MA",
+      "shop": "nexlink0",
+      "name": "#38661970035008"
+    },
+    "sentAt": "2025-06-04T16:46:03.670Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212610203040@c.us",
+      "contentType": "string",
+      "content": "Bonjour 👋Vous avez laissé le panier #38625562657088. Finalisez votre commande ici : https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpWTjhZNVJIRUtDWE00U0FKUlo2MlRGSw/recover?key=5dbe4b02fac99df894335d9df0c34e5a&locale=en-MA",
+      "shop": "nexlink0",
+      "name": "#38625562657088"
+    },
+    "sentAt": "2025-06-04T16:46:03.769Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212673252887@c.us",
+      "contentType": "string",
+      "content": "Bonjour 👋Vous avez laissé le panier #38674379080000. Finalisez votre commande ici : https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLXVzLWNlbnRyYWwxOjAxSldCMDdGNlNSWFdWWkMxMzcxQzE0VlNE/recover?key=efb25f84dd195c8381290adf664fa830&locale=en-MA",
+      "shop": "nexlink0",
+      "name": "#38674379080000"
+    },
+    "sentAt": "2025-06-04T16:46:03.824Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212673252887@c.us",
+      "contentType": "string",
+      "content": "Bonjour 👋Vous avez laissé le panier #38625032864064. Finalisez votre commande ici : https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpWTVpQOUUxQkNFS1NRTTBEWVZHQUFOWA/recover?key=ed4a058a5473f10031fcc934c08834ce&locale=en",
+      "shop": "nexlink0",
+      "name": "#38625032864064"
+    },
+    "sentAt": "2025-06-04T16:46:03.857Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212633458644@c.us",
+      "contentType": "string",
+      "content": "Bonjour 👋Vous avez laissé le panier #38627144270144. Finalisez votre commande ici : https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpWUEIwNDFKU0hOWDBINzZSRDlNTUJZNw/recover?key=28b8bb30166d068612eb47c768860bc8&locale=en-MA",
+      "shop": "nexlink0",
+      "name": "#38627144270144"
+    },
+    "sentAt": "2025-06-04T16:46:03.921Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212673252887@c.us",
+      "contentType": "string",
+      "content": "Bonjour 👋Vous avez laissé le panier #38623924126016. Finalisez votre commande ici : https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpWTUQ3M0hHTUgxRTNHN1owU0Y5UE5CTQ/recover?key=29b30d040bd7478a5a2befa11955dbfd&locale=en-MA",
+      "shop": "nexlink0",
+      "name": "#38623924126016"
+    },
+    "sentAt": "2025-06-04T16:46:03.957Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212673252887@c.us",
+      "contentType": "string",
+      "content": "Bonjour 👋Vous avez laissé le panier #38668593529152. Finalisez votre commande ici : https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLXVzLWNlbnRyYWwxOjAxSlc5MEpEQUNBOFcxMFRXQUZZNFBKVjJE/recover?key=dd9a4d23bbf8bf6715c61dd84c3c408c&locale=en-MA",
+      "shop": "nexlink0",
+      "name": "#38668593529152"
+    },
+    "sentAt": "2025-06-04T16:46:04.009Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212673252887@c.us",
+      "contentType": "string",
+      "content": "Bonjour 👋Vous avez laissé le panier #38625032864064. Finalisez votre commande ici : https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpWTVpQOUUxQkNFS1NRTTBEWVZHQUFOWA/recover?key=ed4a058a5473f10031fcc934c08834ce&locale=en",
+      "shop": "nexlink0",
+      "name": "#38625032864064"
+    },
+    "sentAt": "2025-06-04T16:47:00.630Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212673252887@c.us",
+      "contentType": "string",
+      "content": "Bonjour 👋Vous avez laissé le panier #38623924126016. Finalisez votre commande ici : https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpWTUQ3M0hHTUgxRTNHN1owU0Y5UE5CTQ/recover?key=29b30d040bd7478a5a2befa11955dbfd&locale=en-MA",
+      "shop": "nexlink0",
+      "name": "#38623924126016"
+    },
+    "sentAt": "2025-06-04T16:47:00.648Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212610203040@c.us",
+      "contentType": "string",
+      "content": "Bonjour 👋Vous avez laissé le panier #38625562657088. Finalisez votre commande ici : https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpWTjhZNVJIRUtDWE00U0FKUlo2MlRGSw/recover?key=5dbe4b02fac99df894335d9df0c34e5a&locale=en-MA",
+      "shop": "nexlink0",
+      "name": "#38625562657088"
+    },
+    "sentAt": "2025-06-04T16:47:00.658Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212633458644@c.us",
+      "contentType": "string",
+      "content": "Bonjour 👋Vous avez laissé le panier #38627144270144. Finalisez votre commande ici : https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpWUEIwNDFKU0hOWDBINzZSRDlNTUJZNw/recover?key=28b8bb30166d068612eb47c768860bc8&locale=en-MA",
+      "shop": "nexlink0",
+      "name": "#38627144270144"
+    },
+    "sentAt": "2025-06-04T16:47:00.669Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212668508889@c.us",
+      "contentType": "string",
+      "content": "Bonjour 👋Vous avez laissé le panier #38661970035008. Finalisez votre commande ici : https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpXNk1SWVc5UkFCODMwQjJCN0hLRzRXMQ/recover?key=42f93117fedd2a25163c3bf701c4d00d&locale=en-MA",
+      "shop": "nexlink0",
+      "name": "#38661970035008"
+    },
+    "sentAt": "2025-06-04T16:47:00.675Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212673252887@c.us",
+      "contentType": "string",
+      "content": "Bonjour 👋Vous avez laissé le panier #38668593529152. Finalisez votre commande ici : https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLXVzLWNlbnRyYWwxOjAxSlc5MEpEQUNBOFcxMFRXQUZZNFBKVjJE/recover?key=dd9a4d23bbf8bf6715c61dd84c3c408c&locale=en-MA",
+      "shop": "nexlink0",
+      "name": "#38668593529152"
+    },
+    "sentAt": "2025-06-04T16:47:00.688Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212668508889@c.us",
+      "contentType": "string",
+      "content": "Bonjour 👋Vous avez laissé le panier #38671369634112. Finalisez votre commande ici : https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpXOU5HQ0daWjdCUFhGQlNXQllRWE1LTQ/recover?key=d955e6c4a5b9fb99249be903896d6054&locale=en-MA",
+      "shop": "nexlink0",
+      "name": "#38671369634112"
+    },
+    "sentAt": "2025-06-04T16:47:00.696Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212668508889@c.us",
+      "contentType": "string",
+      "content": "Bonjour 👋Vous avez laissé le panier #38671376384320. Finalisez votre commande ici : https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpXOU5LOTZYNTJKMEY3Mk1TUlNDNUUxVw/recover?key=38d8dda01dff67e5e32060582791e09a&locale=en-MA",
+      "shop": "nexlink0",
+      "name": "#38671376384320"
+    },
+    "sentAt": "2025-06-04T16:47:00.711Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212673252887@c.us",
+      "contentType": "string",
+      "content": "Bonjour 👋Vous avez laissé le panier #38674379080000. Finalisez votre commande ici : https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLXVzLWNlbnRyYWwxOjAxSldCMDdGNlNSWFdWWkMxMzcxQzE0VlNE/recover?key=efb25f84dd195c8381290adf664fa830&locale=en-MA",
+      "shop": "nexlink0",
+      "name": "#38674379080000"
+    },
+    "sentAt": "2025-06-04T16:47:00.726Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212673252887@c.us",
+      "contentType": "string",
+      "content": "Bonjour 👋Vous avez laissé le panier #38625032864064. Finalisez votre commande ici : https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpWTVpQOUUxQkNFS1NRTTBEWVZHQUFOWA/recover?key=ed4a058a5473f10031fcc934c08834ce&locale=en",
+      "shop": "nexlink0",
+      "name": "#38625032864064"
+    },
+    "sentAt": "2025-06-04T16:48:00.765Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212673252887@c.us",
+      "contentType": "string",
+      "content": "Bonjour 👋Vous avez laissé le panier #38623924126016. Finalisez votre commande ici : https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpWTUQ3M0hHTUgxRTNHN1owU0Y5UE5CTQ/recover?key=29b30d040bd7478a5a2befa11955dbfd&locale=en-MA",
+      "shop": "nexlink0",
+      "name": "#38623924126016"
+    },
+    "sentAt": "2025-06-04T16:48:00.769Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212610203040@c.us",
+      "contentType": "string",
+      "content": "Bonjour 👋Vous avez laissé le panier #38625562657088. Finalisez votre commande ici : https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpWTjhZNVJIRUtDWE00U0FKUlo2MlRGSw/recover?key=5dbe4b02fac99df894335d9df0c34e5a&locale=en-MA",
+      "shop": "nexlink0",
+      "name": "#38625562657088"
+    },
+    "sentAt": "2025-06-04T16:48:00.797Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212668508889@c.us",
+      "contentType": "string",
+      "content": "Bonjour 👋Vous avez laissé le panier #38661970035008. Finalisez votre commande ici : https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpXNk1SWVc5UkFCODMwQjJCN0hLRzRXMQ/recover?key=42f93117fedd2a25163c3bf701c4d00d&locale=en-MA",
+      "shop": "nexlink0",
+      "name": "#38661970035008"
+    },
+    "sentAt": "2025-06-04T16:48:00.803Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212633458644@c.us",
+      "contentType": "string",
+      "content": "Bonjour 👋Vous avez laissé le panier #38627144270144. Finalisez votre commande ici : https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpWUEIwNDFKU0hOWDBINzZSRDlNTUJZNw/recover?key=28b8bb30166d068612eb47c768860bc8&locale=en-MA",
+      "shop": "nexlink0",
+      "name": "#38627144270144"
+    },
+    "sentAt": "2025-06-04T16:48:00.809Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212673252887@c.us",
+      "contentType": "string",
+      "content": "Bonjour 👋Vous avez laissé le panier #38668593529152. Finalisez votre commande ici : https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLXVzLWNlbnRyYWwxOjAxSlc5MEpEQUNBOFcxMFRXQUZZNFBKVjJE/recover?key=dd9a4d23bbf8bf6715c61dd84c3c408c&locale=en-MA",
+      "shop": "nexlink0",
+      "name": "#38668593529152"
+    },
+    "sentAt": "2025-06-04T16:48:00.828Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212668508889@c.us",
+      "contentType": "string",
+      "content": "Bonjour 👋Vous avez laissé le panier #38671369634112. Finalisez votre commande ici : https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpXOU5HQ0daWjdCUFhGQlNXQllRWE1LTQ/recover?key=d955e6c4a5b9fb99249be903896d6054&locale=en-MA",
+      "shop": "nexlink0",
+      "name": "#38671369634112"
+    },
+    "sentAt": "2025-06-04T16:48:00.869Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212668508889@c.us",
+      "contentType": "string",
+      "content": "Bonjour 👋Vous avez laissé le panier #38671376384320. Finalisez votre commande ici : https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpXOU5LOTZYNTJKMEY3Mk1TUlNDNUUxVw/recover?key=38d8dda01dff67e5e32060582791e09a&locale=en-MA",
+      "shop": "nexlink0",
+      "name": "#38671376384320"
+    },
+    "sentAt": "2025-06-04T16:48:00.878Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212673252887@c.us",
+      "contentType": "string",
+      "content": "Bonjour 👋Vous avez laissé le panier #38674379080000. Finalisez votre commande ici : https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLXVzLWNlbnRyYWwxOjAxSldCMDdGNlNSWFdWWkMxMzcxQzE0VlNE/recover?key=efb25f84dd195c8381290adf664fa830&locale=en-MA",
+      "shop": "nexlink0",
+      "name": "#38674379080000"
+    },
+    "sentAt": "2025-06-04T16:48:00.885Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212633458644@c.us",
+      "contentType": "string",
+      "content": "Message test",
+      "shop": "nexlink0",
+      "name": "client"
+    },
+    "sentAt": "2025-06-05T12:47:55.816Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212633458644@c.us",
+      "contentType": "string",
+      "content": "Message test",
+      "shop": "nexlink0",
+      "name": "client"
+    },
+    "sentAt": "2025-06-05T13:15:08.917Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212633458644@c.us",
+      "contentType": "string",
+      "content": "Bonjour 👋Vous avez laissé le panier #38627144270144. Finalisez votre commande ici : https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpWUEIwNDFKU0hOWDBINzZSRDlNTUJZNw/recover?key=28b8bb30166d068612eb47c768860bc8&locale=en-MA",
+      "shop": "nexlink0",
+      "name": "#38627144270144"
+    },
+    "sentAt": "2025-06-05T13:21:07.867Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212633458644@c.us",
+      "contentType": "string",
+      "content": "Bonjour 👋Vous avez laissé le panier #38627144270144. Finalisez votre commande ici : https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpWUEIwNDFKU0hOWDBINzZSRDlNTUJZNw/recover?key=28b8bb30166d068612eb47c768860bc8&locale=en-MA",
+      "shop": "nexlink0",
+      "name": "#38627144270144"
+    },
+    "sentAt": "2025-06-05T13:30:05.465Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212673252887@c.us",
+      "contentType": "string",
+      "content": "Bonjour 👋Vous avez laissé le panier #38623924126016. Finalisez votre commande ici : https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpWTUQ3M0hHTUgxRTNHN1owU0Y5UE5CTQ/recover?key=29b30d040bd7478a5a2befa11955dbfd&locale=en-MA",
+      "shop": "nexlink0",
+      "name": "#38623924126016"
+    },
+    "sentAt": "2025-06-05T13:30:08.213Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212673252887@c.us",
+      "contentType": "string",
+      "content": "Bonjour 👋Vous avez laissé le panier #38625032864064. Finalisez votre commande ici : https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpWTVpQOUUxQkNFS1NRTTBEWVZHQUFOWA/recover?key=ed4a058a5473f10031fcc934c08834ce&locale=en",
+      "shop": "nexlink0",
+      "name": "#38625032864064"
+    },
+    "sentAt": "2025-06-05T13:30:08.242Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212610203040@c.us",
+      "contentType": "string",
+      "content": "Bonjour 👋Vous avez laissé le panier #38625562657088. Finalisez votre commande ici : https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpWTjhZNVJIRUtDWE00U0FKUlo2MlRGSw/recover?key=5dbe4b02fac99df894335d9df0c34e5a&locale=en-MA",
+      "shop": "nexlink0",
+      "name": "#38625562657088"
+    },
+    "sentAt": "2025-06-05T13:30:08.272Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212668508889@c.us",
+      "contentType": "string",
+      "content": "Bonjour 👋Vous avez laissé le panier #38661970035008. Finalisez votre commande ici : https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpXNk1SWVc5UkFCODMwQjJCN0hLRzRXMQ/recover?key=42f93117fedd2a25163c3bf701c4d00d&locale=en-MA",
+      "shop": "nexlink0",
+      "name": "#38661970035008"
+    },
+    "sentAt": "2025-06-05T13:30:08.311Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212673252887@c.us",
+      "contentType": "string",
+      "content": "Bonjour 👋Vous avez laissé le panier #38668593529152. Finalisez votre commande ici : https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLXVzLWNlbnRyYWwxOjAxSlc5MEpEQUNBOFcxMFRXQUZZNFBKVjJE/recover?key=dd9a4d23bbf8bf6715c61dd84c3c408c&locale=en-MA",
+      "shop": "nexlink0",
+      "name": "#38668593529152"
+    },
+    "sentAt": "2025-06-05T13:30:08.339Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212668508889@c.us",
+      "contentType": "string",
+      "content": "Bonjour 👋Vous avez laissé le panier #38671369634112. Finalisez votre commande ici : https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpXOU5HQ0daWjdCUFhGQlNXQllRWE1LTQ/recover?key=d955e6c4a5b9fb99249be903896d6054&locale=en-MA",
+      "shop": "nexlink0",
+      "name": "#38671369634112"
+    },
+    "sentAt": "2025-06-05T13:30:08.367Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212668508889@c.us",
+      "contentType": "string",
+      "content": "Bonjour 👋Vous avez laissé le panier #38671376384320. Finalisez votre commande ici : https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpXOU5LOTZYNTJKMEY3Mk1TUlNDNUUxVw/recover?key=38d8dda01dff67e5e32060582791e09a&locale=en-MA",
+      "shop": "nexlink0",
+      "name": "#38671376384320"
+    },
+    "sentAt": "2025-06-05T13:30:08.380Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212673252887@c.us",
+      "contentType": "string",
+      "content": "Bonjour 👋Vous avez laissé le panier #38674379080000. Finalisez votre commande ici : https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLXVzLWNlbnRyYWwxOjAxSldCMDdGNlNSWFdWWkMxMzcxQzE0VlNE/recover?key=efb25f84dd195c8381290adf664fa830&locale=en-MA",
+      "shop": "nexlink0",
+      "name": "#38674379080000"
+    },
+    "sentAt": "2025-06-05T13:30:08.403Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212633458644@c.us",
+      "contentType": "string",
+      "content": "Bonjour 👋Vous avez laissé le panier #38627144270144. Finalisez votre commande ici : https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpWUEIwNDFKU0hOWDBINzZSRDlNTUJZNw/recover?key=28b8bb30166d068612eb47c768860bc8&locale=en-MA",
+      "shop": "nexlink0",
+      "name": "#38627144270144"
+    },
+    "sentAt": "2025-07-07T10:09:33.998Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212633458644@c.us",
+      "contentType": "string",
+      "content": "Bonjour 👋Vous avez laissé le panier #38627144270144. Finalisez votre commande ici : https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpWUEIwNDFKU0hOWDBINzZSRDlNTUJZNw/recover?key=28b8bb30166d068612eb47c768860bc8&locale=en-MA",
+      "shop": "nexlink0",
+      "name": "#38627144270144"
+    },
+    "sentAt": "2025-07-07T10:30:31.254Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212633458644@c.us",
+      "contentType": "string",
+      "content": "Hello 👋 You left your cart, #38627144270144. Complete your order here: https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpWUEIwNDFKU0hOWDBINzZSRDlNTUJZNw/recover?key=28b8bb30166d068612eb47c768860bc8&locale=en-MA",
+      "shop": "nexlink0",
+      "name": "#38627144270144"
+    },
+    "sentAt": "2025-07-09T16:43:20.202Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212633458644@c.us",
+      "contentType": "string",
+      "content": "Hello 👋 You left your cart, #38627144270144. Complete your order here: https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpWUEIwNDFKU0hOWDBINzZSRDlNTUJZNw/recover?key=28b8bb30166d068612eb47c768860bc8&locale=en-MA",
+      "shop": "nexlink0",
+      "name": "#38627144270144"
+    },
+    "sentAt": "2025-07-09T16:43:22.617Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212633458644@c.us",
+      "contentType": "string",
+      "content": "Hello 👋 You left your cart, #38627144270144. Complete your order here: https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpWUEIwNDFKU0hOWDBINzZSRDlNTUJZNw/recover?key=28b8bb30166d068612eb47c768860bc8&locale=en-MA",
+      "shop": "nexlink0",
+      "name": "#38627144270144"
+    },
+    "sentAt": "2025-07-09T16:43:24.489Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212633458644@c.us",
+      "contentType": "string",
+      "content": "Hello 👋 You left your cart, #38627144270144. Complete your order here: https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpWUEIwNDFKU0hOWDBINzZSRDlNTUJZNw/recover?key=28b8bb30166d068612eb47c768860bc8&locale=en-MA",
+      "shop": "nexlink0",
+      "name": "#38627144270144"
+    },
+    "sentAt": "2025-07-09T16:43:26.077Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212633458644@c.us",
+      "contentType": "string",
+      "content": "Hello 👋 You left your cart, #38627144270144. Complete your order here: https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpWUEIwNDFKU0hOWDBINzZSRDlNTUJZNw/recover?key=28b8bb30166d068612eb47c768860bc8&locale=en-MA",
+      "shop": "nexlink0",
+      "name": "#38627144270144"
+    },
+    "sentAt": "2025-07-09T16:43:27.822Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212633458644@c.us",
+      "contentType": "string",
+      "content": "Hello 👋 You left your cart, #38627144270144. Complete your order here: https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpWUEIwNDFKU0hOWDBINzZSRDlNTUJZNw/recover?key=28b8bb30166d068612eb47c768860bc8&locale=en-MA",
+      "shop": "nexlink0",
+      "name": "#38627144270144"
+    },
+    "sentAt": "2025-07-09T16:43:29.409Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212633458644@c.us",
+      "contentType": "string",
+      "content": "Hello 👋 You left your cart, #38627144270144. Complete your order here: https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpWUEIwNDFKU0hOWDBINzZSRDlNTUJZNw/recover?key=28b8bb30166d068612eb47c768860bc8&locale=en-MA",
+      "shop": "nexlink0",
+      "name": "#38627144270144"
+    },
+    "sentAt": "2025-07-09T16:43:31.137Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212633458644@c.us",
+      "contentType": "string",
+      "content": "Hello 👋 You left your cart, #38627144270144. Complete your order here: https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpWUEIwNDFKU0hOWDBINzZSRDlNTUJZNw/recover?key=28b8bb30166d068612eb47c768860bc8&locale=en-MA",
+      "shop": "nexlink0",
+      "name": "#38627144270144"
+    },
+    "sentAt": "2025-07-09T16:43:45.258Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212633458644@c.us",
+      "contentType": "string",
+      "content": "Hello 👋 You left your cart, #38627144270144. Complete your order here: https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpWUEIwNDFKU0hOWDBINzZSRDlNTUJZNw/recover?key=28b8bb30166d068612eb47c768860bc8&locale=en-MA",
+      "shop": "nexlink0",
+      "name": "#38627144270144"
+    },
+    "sentAt": "2025-07-09T16:43:49.089Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212633458644@c.us",
+      "contentType": "string",
+      "content": "Hello 👋 You left your cart, #38627144270144. Complete your order here: https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpWUEIwNDFKU0hOWDBINzZSRDlNTUJZNw/recover?key=28b8bb30166d068612eb47c768860bc8&locale=en-MA",
+      "shop": "nexlink0",
+      "name": "#38627144270144"
+    },
+    "sentAt": "2025-07-09T16:43:50.893Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212633458644@c.us",
+      "contentType": "string",
+      "content": "Hello 👋 You left your cart, #38627144270144. Complete your order here: https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpWUEIwNDFKU0hOWDBINzZSRDlNTUJZNw/recover?key=28b8bb30166d068612eb47c768860bc8&locale=en-MA",
+      "shop": "nexlink0",
+      "name": "#38627144270144"
+    },
+    "sentAt": "2025-07-09T16:43:52.674Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212633458644@c.us",
+      "contentType": "string",
+      "content": "Hello 👋 You left your cart, #38627144270144. Complete your order here: https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpWUEIwNDFKU0hOWDBINzZSRDlNTUJZNw/recover?key=28b8bb30166d068612eb47c768860bc8&locale=en-MA",
+      "shop": "nexlink0",
+      "name": "#38627144270144"
+    },
+    "sentAt": "2025-07-09T16:43:54.596Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212633458644@c.us",
+      "contentType": "string",
+      "content": "Hello 👋 You left your cart, #38627144270144. Complete your order here: https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpWUEIwNDFKU0hOWDBINzZSRDlNTUJZNw/recover?key=28b8bb30166d068612eb47c768860bc8&locale=en-MA",
+      "shop": "nexlink0",
+      "name": "#38627144270144"
+    },
+    "sentAt": "2025-07-09T16:43:59.444Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212633458644@c.us",
+      "contentType": "string",
+      "content": "Hello 👋 You left your cart, #38627144270144. Complete your order here: https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpWUEIwNDFKU0hOWDBINzZSRDlNTUJZNw/recover?key=28b8bb30166d068612eb47c768860bc8&locale=en-MA",
+      "shop": "nexlink0",
+      "name": "#38627144270144"
+    },
+    "sentAt": "2025-07-09T16:44:01.476Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212633458644@c.us",
+      "contentType": "string",
+      "content": "Hello 👋 You left your cart, #38627144270144. Complete your order here: https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpWUEIwNDFKU0hOWDBINzZSRDlNTUJZNw/recover?key=28b8bb30166d068612eb47c768860bc8&locale=en-MA",
+      "shop": "nexlink0",
+      "name": "#38627144270144"
+    },
+    "sentAt": "2025-07-09T16:44:03.641Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212633458644@c.us",
+      "contentType": "string",
+      "content": "Hello 👋 You left your cart, #38627144270144. Complete your order here: https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpWUEIwNDFKU0hOWDBINzZSRDlNTUJZNw/recover?key=28b8bb30166d068612eb47c768860bc8&locale=en-MA",
+      "shop": "nexlink0",
+      "name": "#38627144270144"
+    },
+    "sentAt": "2025-07-09T16:44:05.022Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212633458644@c.us",
+      "contentType": "string",
+      "content": "Hello 👋 You left your cart, #38627144270144. Complete your order here: https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpWUEIwNDFKU0hOWDBINzZSRDlNTUJZNw/recover?key=28b8bb30166d068612eb47c768860bc8&locale=en-MA",
+      "shop": "nexlink0",
+      "name": "#38627144270144"
+    },
+    "sentAt": "2025-07-09T16:44:06.494Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212633458644@c.us",
+      "contentType": "string",
+      "content": "Hello 👋 You left your cart, #38627144270144. Complete your order here: https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpWUEIwNDFKU0hOWDBINzZSRDlNTUJZNw/recover?key=28b8bb30166d068612eb47c768860bc8&locale=en-MA",
+      "shop": "nexlink0",
+      "name": "#38627144270144"
+    },
+    "sentAt": "2025-07-09T16:44:07.988Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212633458644@c.us",
+      "contentType": "string",
+      "content": "Hello 👋 You left your cart, #38627144270144. Complete your order here: https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpWUEIwNDFKU0hOWDBINzZSRDlNTUJZNw/recover?key=28b8bb30166d068612eb47c768860bc8&locale=en-MA",
+      "shop": "nexlink0",
+      "name": "#38627144270144"
+    },
+    "sentAt": "2025-07-09T16:44:16.857Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212633458644@c.us",
+      "contentType": "string",
+      "content": "Hello 👋 You left your cart, #38627144270144. Complete your order here: https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpWUEIwNDFKU0hOWDBINzZSRDlNTUJZNw/recover?key=28b8bb30166d068612eb47c768860bc8&locale=en-MA",
+      "shop": "nexlink0",
+      "name": "#38627144270144"
+    },
+    "sentAt": "2025-07-09T16:44:18.544Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212633458644@c.us",
+      "contentType": "string",
+      "content": "Hello 👋 You left your cart, #38627144270144. Complete your order here: https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpWUEIwNDFKU0hOWDBINzZSRDlNTUJZNw/recover?key=28b8bb30166d068612eb47c768860bc8&locale=en-MA",
+      "shop": "nexlink0",
+      "name": "#38627144270144"
+    },
+    "sentAt": "2025-07-10T09:56:23.913Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212633458644@c.us",
+      "contentType": "string",
+      "content": "Hello 👋 You left your cart, #38627144270144. Complete your order here: https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpWUEIwNDFKU0hOWDBINzZSRDlNTUJZNw/recover?key=28b8bb30166d068612eb47c768860bc8&locale=en-MA",
+      "shop": "nexlink0",
+      "name": "#38627144270144"
+    },
+    "sentAt": "2025-07-10T09:56:34.088Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212633458644@c.us",
+      "contentType": "string",
+      "content": "Hello 👋 You left your cart, #38627144270144. Complete your order here: https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpWUEIwNDFKU0hOWDBINzZSRDlNTUJZNw/recover?key=28b8bb30166d068612eb47c768860bc8&locale=en-MA",
+      "shop": "nexlink0",
+      "name": "#38627144270144"
+    },
+    "sentAt": "2025-07-10T09:56:36.814Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212633458644@c.us",
+      "contentType": "string",
+      "content": "Hello 👋 You left your cart, #38627144270144. Complete your order here: https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpWUEIwNDFKU0hOWDBINzZSRDlNTUJZNw/recover?key=28b8bb30166d068612eb47c768860bc8&locale=en-MA",
+      "shop": "nexlink0",
+      "name": "#38627144270144"
+    },
+    "sentAt": "2025-07-10T10:40:21.139Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212668508889@c.us",
+      "contentType": "string",
+      "content": "Hello 👋 You left your cart, #38661970035008. Complete your order here: https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpXNk1SWVc5UkFCODMwQjJCN0hLRzRXMQ/recover?key=42f93117fedd2a25163c3bf701c4d00d&locale=en-MA",
+      "shop": "nexlink0",
+      "name": "#38661970035008"
+    },
+    "sentAt": "2025-07-15T12:00:23.828Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212668508889@c.us",
+      "contentType": "string",
+      "content": "Hello 👋 You left your cart, #38661970035008. Complete your order here: https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpXNk1SWVc5UkFCODMwQjJCN0hLRzRXMQ/recover?key=42f93117fedd2a25163c3bf701c4d00d&locale=en-MA",
+      "shop": "nexlink0",
+      "name": "#38661970035008"
+    },
+    "sentAt": "2025-07-15T12:00:41.317Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212668508889@c.us",
+      "contentType": "string",
+      "content": "Hello 👋 You left your cart, #38661970035008. Complete your order here: https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpXNk1SWVc5UkFCODMwQjJCN0hLRzRXMQ/recover?key=42f93117fedd2a25163c3bf701c4d00d&locale=en-MA",
+      "shop": "nexlink0",
+      "name": "#38661970035008"
+    },
+    "sentAt": "2025-07-15T12:00:44.185Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212633458644@c.us",
+      "contentType": "string",
+      "content": "Hello 👋 You left your cart, #38627144270144. Complete your order here: https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpWUEIwNDFKU0hOWDBINzZSRDlNTUJZNw/recover?key=28b8bb30166d068612eb47c768860bc8&locale=en-MA",
+      "shop": "nexlink0",
+      "name": "#38627144270144"
+    },
+    "sentAt": "2025-07-15T15:15:20.191Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212633458644@c.us",
+      "contentType": "string",
+      "content": "<p>Hey customerName! 👋&nbsp;&nbsp;</p><p>You left your cart, \"name\" is almost gone 😱</p><p><br></p><p>We saved it in your cart, but it won’t last forever…&nbsp;&nbsp;</p><p>Finish your order now and don’t miss out 🛒💨</p><p><br></p><p>👉 Complete your order here: url</p><p><br></p><p>Need help? Just reply—we're here for you 💬</p>",
+      "shop": "nexlink0",
+      "name": "#38627144270144"
+    },
+    "sentAt": "2025-07-15T16:18:34.135Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212633458644@c.us",
+      "contentType": "string",
+      "content": "<p>Hey customerName! 👋&nbsp;&nbsp;</p><p>You left your cart, \"name\" is almost gone 😱</p><p><br></p><p>We saved it in your cart, but it won’t last forever…&nbsp;&nbsp;</p><p>Finish your order now and don’t miss out 🛒💨</p><p><br></p><p>👉 Complete your order here: url</p><p><br></p><p>Need help? Just reply—we're here for you 💬</p>",
+      "shop": "nexlink0",
+      "name": "#38627144270144"
+    },
+    "sentAt": "2025-07-15T16:20:33.465Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212633458644@c.us",
+      "contentType": "string",
+      "content": "<p>Hey customerName! 👋&nbsp;&nbsp;</p><p>You left your cart, \"name\" is almost gone 😱</p><p><br></p><p>We saved it in your cart, but it won’t last forever…&nbsp;&nbsp;</p><p>Finish your order now and don’t miss out 🛒💨</p><p><br></p><p>👉 Complete your order here: url</p><p><br></p><p>Need help? Just reply—we're here for you 💬</p>",
+      "shop": "nexlink0",
+      "name": "#38627144270144"
+    },
+    "sentAt": "2025-07-15T16:24:16.694Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212633458644@c.us",
+      "contentType": "string",
+      "content": "Hey Visitor! 👋  You left your cart, #38627144270144 is almost gone 😱We saved it in your cart, but it won’t last forever…  Finish your order now and don’t miss out 🛒💨👉 Complete your order here: https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpWUEIwNDFKU0hOWDBINzZSRDlNTUJZNw/recover?key=28b8bb30166d068612eb47c768860bc8&locale=en-MANeed help? Just reply—we're here for you 💬",
+      "shop": "nexlink0",
+      "name": "#38627144270144"
+    },
+    "sentAt": "2025-07-15T17:23:43.633Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212668508889@c.us",
+      "contentType": "string",
+      "content": "Hey NABIL! 👋  You left your cart, #38661970035008 is almost gone 😱We saved it in your cart, but it won’t last forever…  Finish your order now and don’t miss out 🛒💨👉 Complete your order here: https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpXNk1SWVc5UkFCODMwQjJCN0hLRzRXMQ/recover?key=42f93117fedd2a25163c3bf701c4d00d&locale=en-MANeed help? Just reply—we're here for you 💬",
+      "shop": "nexlink0",
+      "name": "#38661970035008"
+    },
+    "sentAt": "2025-07-15T17:24:09.902Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212633458644@c.us",
+      "contentType": "string",
+      "content": "Hey Visitor! 👋  You left your cart, #38627144270144 is almost gone 😱We saved it in your cart, but it won’t last forever…  Finish your order now and don’t miss out 🛒💨👉 Complete your order here: https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpWUEIwNDFKU0hOWDBINzZSRDlNTUJZNw/recover?key=28b8bb30166d068612eb47c768860bc8&locale=en-MANeed help? Just reply—we're here for you 💬",
+      "shop": "nexlink0",
+      "name": "#38627144270144"
+    },
+    "sentAt": "2025-07-15T17:32:06.357Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212633458644@c.us",
+      "contentType": "string",
+      "content": "Hey Visitor! 👋  You left your cart, #38627144270144 is almost gone 😱We saved it in your cart, but it won’t last forever…  Finish your order now and don’t miss out 🛒💨👉 Complete your order here: https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpWUEIwNDFKU0hOWDBINzZSRDlNTUJZNw/recover?key=28b8bb30166d068612eb47c768860bc8&locale=en-MANeed help? Just reply—we're here for you 💬",
+      "shop": "nexlink0",
+      "name": "#38627144270144"
+    },
+    "sentAt": "2025-07-15T17:34:46.556Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212633458644@c.us",
+      "contentType": "string",
+      "content": "Hey Visitor! 👋  \nYou left your cart, #38627144270144 is almost gone 😱\nWe saved it in your cart, but it won’t last forever…  \nFinish your order now and don’t miss out 🛒💨\n👉 Complete your order here: https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpWUEIwNDFKU0hOWDBINzZSRDlNTUJZNw/recover?key=28b8bb30166d068612eb47c768860bc8&locale=en-MA\nNeed help? Just reply—we're here for you 💬",
+      "shop": "nexlink0",
+      "name": "#38627144270144"
+    },
+    "sentAt": "2025-07-15T17:35:31.178Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212633458644@c.us",
+      "contentType": "string",
+      "content": "Hey Visitor! 👋  \nYou left your cart, #38627144270144 is almost gone 😱\nWe saved it in your cart, but it won’t last forever…  \nFinish your order now and don’t miss out 🛒💨\n👉 Complete your order here: https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpWUEIwNDFKU0hOWDBINzZSRDlNTUJZNw/recover?key=28b8bb30166d068612eb47c768860bc8&locale=en-MA\nNeed help? Just reply—we're here for you 💬",
+      "shop": "nexlink0",
+      "name": "#38627144270144"
+    },
+    "sentAt": "2025-07-16T09:57:04.499Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212633458644@c.us",
+      "contentType": "string",
+      "content": "Hey Visitor! 👋  \nYou left your cart, The Collection Snowboard: Liquid is almost gone 😱\nWe saved it in your cart, but it won’t last forever…  \nFinish your order now and don’t miss out 🛒💨\n👉 Complete your order here: https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpWUEIwNDFKU0hOWDBINzZSRDlNTUJZNw/recover?key=28b8bb30166d068612eb47c768860bc8&locale=en-MA\nNeed help? Just reply—we're here for you 💬",
+      "shop": "nexlink0",
+      "name": "#38627144270144"
+    },
+    "sentAt": "2025-07-17T10:05:14.445Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212633458644@c.us",
+      "contentType": "string",
+      "content": "Hey Visitor! 👋  \nYou left your cart, The Collection Snowboard: Liquid is almost gone 😱\nWe saved it in your cart, but it won’t last forever…  \nFinish your order now and don’t miss out 🛒💨\n👉 Complete your order here: https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpWUEIwNDFKU0hOWDBINzZSRDlNTUJZNw/recover?key=28b8bb30166d068612eb47c768860bc8&locale=en-MA\nNeed help? Just reply—we're here for you 💬",
+      "shop": "nexlink0",
+      "name": "#38627144270144"
+    },
+    "sentAt": "2025-07-17T10:48:28.304Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212633458644@c.us",
+      "contentType": "string",
+      "content": "Hey Visitor! 👋  \nYou left your cart, The Collection Snowboard: Liquid is almost gone 😱\nWe saved it in your cart, but it won’t last forever…  \nFinish your order now and don’t miss out 🛒💨\n👉 Complete your order here: https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpWUEIwNDFKU0hOWDBINzZSRDlNTUJZNw/recover?key=28b8bb30166d068612eb47c768860bc8&locale=en-MA\nNeed help? Just reply—we're here for you 💬",
+      "shop": "nexlink0",
+      "name": "#38627144270144"
+    },
+    "sentAt": "2025-07-17T12:03:00.876Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212673252887@c.us",
+      "contentType": "string",
+      "content": "Hey Visitor! 👋  \nYou left your cart, The Multi-location Snowboard is almost gone 😱\nWe saved it in your cart, but it won’t last forever…  \nFinish your order now and don’t miss out 🛒💨\n👉 Complete your order here: https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpWTVpQOUUxQkNFS1NRTTBEWVZHQUFOWA/recover?key=ed4a058a5473f10031fcc934c08834ce&locale=en\nNeed help? Just reply—we're here for you 💬",
+      "shop": "nexlink0",
+      "name": "#38625032864064"
+    },
+    "sentAt": "2025-07-17T12:03:03.301Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212673252887@c.us",
+      "contentType": "string",
+      "content": "Hey mee! 👋  \nYou left your cart, The Collection Snowboard: Liquid is almost gone 😱\nWe saved it in your cart, but it won’t last forever…  \nFinish your order now and don’t miss out 🛒💨\n👉 Complete your order here: https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpWTUQ3M0hHTUgxRTNHN1owU0Y5UE5CTQ/recover?key=29b30d040bd7478a5a2befa11955dbfd&locale=en-MA\nNeed help? Just reply—we're here for you 💬",
+      "shop": "nexlink0",
+      "name": "#38623924126016"
+    },
+    "sentAt": "2025-07-17T12:03:03.353Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212673252887@c.us",
+      "contentType": "string",
+      "content": "Hey Visitor! 👋  \nYou left your cart, The Multi-managed Snowboard is almost gone 😱\nWe saved it in your cart, but it won’t last forever…  \nFinish your order now and don’t miss out 🛒💨\n👉 Complete your order here: https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLXVzLWNlbnRyYWwxOjAxSldCMDdGNlNSWFdWWkMxMzcxQzE0VlNE/recover?key=efb25f84dd195c8381290adf664fa830&locale=en-MA\nNeed help? Just reply—we're here for you 💬",
+      "shop": "nexlink0",
+      "name": "#38674379080000"
+    },
+    "sentAt": "2025-07-17T12:03:03.378Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212668508889@c.us",
+      "contentType": "string",
+      "content": "Hey NABIL! 👋  \nYou left your cart, The Collection Snowboard: Liquid is almost gone 😱\nWe saved it in your cart, but it won’t last forever…  \nFinish your order now and don’t miss out 🛒💨\n👉 Complete your order here: https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpXOU5HQ0daWjdCUFhGQlNXQllRWE1LTQ/recover?key=d955e6c4a5b9fb99249be903896d6054&locale=en-MA\nNeed help? Just reply—we're here for you 💬",
+      "shop": "nexlink0",
+      "name": "#38671369634112"
+    },
+    "sentAt": "2025-07-17T12:03:03.394Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212668508889@c.us",
+      "contentType": "string",
+      "content": "Hey NABIL! 👋  \nYou left your cart, The Multi-managed Snowboard is almost gone 😱\nWe saved it in your cart, but it won’t last forever…  \nFinish your order now and don’t miss out 🛒💨\n👉 Complete your order here: https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpXOU5LOTZYNTJKMEY3Mk1TUlNDNUUxVw/recover?key=38d8dda01dff67e5e32060582791e09a&locale=en-MA\nNeed help? Just reply—we're here for you 💬",
+      "shop": "nexlink0",
+      "name": "#38671376384320"
+    },
+    "sentAt": "2025-07-17T12:03:03.470Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212673252887@c.us",
+      "contentType": "string",
+      "content": "Hey Visitor! 👋  \nYou left your cart, The Multi-managed Snowboard is almost gone 😱\nWe saved it in your cart, but it won’t last forever…  \nFinish your order now and don’t miss out 🛒💨\n👉 Complete your order here: https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLXVzLWNlbnRyYWwxOjAxSlc5MEpEQUNBOFcxMFRXQUZZNFBKVjJE/recover?key=dd9a4d23bbf8bf6715c61dd84c3c408c&locale=en-MA\nNeed help? Just reply—we're here for you 💬",
+      "shop": "nexlink0",
+      "name": "#38668593529152"
+    },
+    "sentAt": "2025-07-17T12:03:03.568Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212668508889@c.us",
+      "contentType": "string",
+      "content": "Hey NABIL! 👋  \nYou left your cart, The Videographer Snowboard is almost gone 😱\nWe saved it in your cart, but it won’t last forever…  \nFinish your order now and don’t miss out 🛒💨\n👉 Complete your order here: https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpXNk1SWVc5UkFCODMwQjJCN0hLRzRXMQ/recover?key=42f93117fedd2a25163c3bf701c4d00d&locale=en-MA\nNeed help? Just reply—we're here for you 💬",
+      "shop": "nexlink0",
+      "name": "#38661970035008"
+    },
+    "sentAt": "2025-07-17T12:03:03.957Z"
+  }
+]

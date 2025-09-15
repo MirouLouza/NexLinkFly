@@ -1,0 +1,82 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+// Note that some adapters may set a maximum length for the String type by default, please ensure your strings are long
+// enough when changing adapters.
+// See https://www.prisma.io/docs/orm/reference/prisma-schema-reference#string for more information
+datasource db {
+  provider = "sqlite"
+  url      = "file:dev.sqlite"
+}
+
+model Session {
+  id            String    @id
+  shop          String
+  state         String
+  isOnline      Boolean   @default(false)
+  scope         String?
+  expires       DateTime?
+  accessToken   String
+  userId        BigInt?
+  firstName     String?
+  lastName      String?
+  email         String?
+  accountOwner  Boolean   @default(false)
+  locale        String?
+  collaborator  Boolean?  @default(false)
+  emailVerified Boolean?  @default(false)
+  plan          String?
+  createdAt     DateTime  @default(now())
+}
+
+
+model CheckoutReminder {
+  id         Int      @id @default(autoincrement())
+  checkoutId String   @unique
+  remindedAt DateTime @default(now())
+}
+
+
+model Frequency {
+  id        Int      @id @default(autoincrement())
+  shop      String   @unique
+  time      String?   //  "HH:MM"
+  days      String?   //  "Monday,Wednesday,Friday"
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+  maxReminders  Int?      @default(10)     // 10 relunch max
+  intervalHours Int?      // en heures 
+  useInterval   Boolean? @default(false) 
+}
+
+
+model PlanOption {
+  id        Int      @id @default(autoincrement())
+  shop      String   @unique
+  plan      String?   
+  updatedAt DateTime @default(now())
+  maxReminders  Int? @default(20)
+  cptReminders  Int? 
+  maxTestSend   Int? @default(3)
+  cptTestSend   Int? 
+}
+
+model ConfBilling {
+  id        Int      @id @default(autoincrement())
+  limitBasic Int? @default(20)
+  limitPro Int? @default(100)
+  limitGold Int? @default(400)
+  limitAdvanced Int? @default(1000)
+  limitTest Int? @default(5)
+}
+
+model MessageConfig {
+  id      Int    @id @default(autoincrement())
+  shop    String @unique
+  message String?
+  defaultMes String?
+}

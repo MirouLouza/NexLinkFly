@@ -1,0 +1,39 @@
+[
+  {
+    "resreq": {
+      "chatId": "212673252887@c.us",
+      "contentType": "string",
+      "content": "Bonjour 👋Vous avez laissé le panier #38623924126016. Finalisez votre commande ici : https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpWTUQ3M0hHTUgxRTNHN1owU0Y5UE5CTQ/recover?key=29b30d040bd7478a5a2befa11955dbfd&locale=en-MA",
+      "shop": "nexlink0"
+    },
+    "sentAt": "2025-05-29T08:59:53.664Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212673252887@c.us",
+      "contentType": "string",
+      "content": "Bonjour 👋Vous avez laissé le panier #38625032864064. Finalisez votre commande ici : https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpWTVpQOUUxQkNFS1NRTTBEWVZHQUFOWA/recover?key=ed4a058a5473f10031fcc934c08834ce&locale=en",
+      "shop": "nexlink0"
+    },
+    "sentAt": "2025-05-29T09:03:35.986Z"
+  },
+  {
+    "resreq": {
+      "chatId": "212673252887@c.us",
+      "contentType": "string",
+      "content": "Bonjour 👋Vous avez laissé le panier #38623924126016. Finalisez votre commande ici : https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpWTUQ3M0hHTUgxRTNHN1owU0Y5UE5CTQ/recover?key=29b30d040bd7478a5a2befa11955dbfd&locale=en-MA",
+      "shop": "nexlink0"
+    },
+    "sentAt": "2025-05-29T09:18:19.949Z"
+  },
+    {
+    "resreq": {
+      "chatId": "212673252887@c.us",
+      "contentType": "string",
+      "content": "Bonjour 👋Vous avez laissé le panier #38623924126016. Finalisez votre commande ici : https://nexlink0.myshopify.com/93414031680/checkouts/ac/Z2NwLWV1cm9wZS13ZXN0MTowMUpWTUQ3M0hHTUgxRTNHN1owU0Y5UE5CTQ/recover?key=29b30d040bd7478a5a2befa11955dbfd&locale=en-MA",
+      "shop": "nexlink1"
+    },
+    "sentAt": "2025-05-30T08:59:53.664Z"
+  }
+  
+]
