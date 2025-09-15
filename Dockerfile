@@ -1,22 +1,35 @@
-FROM node:18-alpine
+# Utilise une image Node légère
+FROM node:20-alpine
+
+# Installer openssl (nécessaire pour certaines dépendances)
 RUN apk add --no-cache openssl
 
-EXPOSE 3000
-
+# Définir le répertoire de travail
 WORKDIR /app
 
+# Définir la variable d'environnement pour la prod
 ENV NODE_ENV=production
+ENV PORT=3000
 
+# Copier uniquement les fichiers de dépendances d'abord (optimisation du cache)
 COPY package.json package-lock.json* ./
 
+# Installer les dépendances de production
 RUN npm ci --omit=dev && npm cache clean --force \
     && sed -i "s/with { type: 'json' }//" node_modules/@shopify/shopify-app-remix/dist/esm/react/components/AppProvider/AppProvider.mjs
-# Remove CLI packages since we don't need them in production by default.
-# Remove this line if you want to run CLI commands in your container.
+
+
+# Supprimer le CLI Shopify inutilisé pour la prod
 RUN npm remove @shopify/cli
 
+# Copier le reste du projet
 COPY . .
 
+# Construire l'application Remix
 RUN npm run build
 
-CMD ["npm", "run", "docker-start"]
+# Exposer le port
+EXPOSE 3000
+
+# Lancer le serveur Remix
+CMD ["npm", "run", "start"]
