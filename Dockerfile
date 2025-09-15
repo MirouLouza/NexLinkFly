@@ -27,9 +27,6 @@ COPY . .
 # Construire l'application Remix
 RUN npm run build
 
-# 🔍 Debug : voir exactement ce que Remix génère
-RUN echo "=== CONTENU DU DOSSIER BUILD ===" && ls -R ./build || echo "Le dossier build n'existe pas"
-
 # Exposer le port
 EXPOSE 3000
 
