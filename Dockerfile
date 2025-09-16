@@ -12,8 +12,11 @@ COPY package.json package-lock.json* ./
 # Installer toutes les dépendances
 RUN npm ci
 
-# Correction Shopify App Remix (optionnel)
+# Correction Shopify App Remix
 RUN sed -i "s/with { type: 'json' }//" node_modules/@shopify/shopify-app-remix/dist/esm/react/components/AppProvider/AppProvider.mjs
+
+# Correction Polaris (locales JSON)
+RUN sed -i 's/with { type: "json" }/assert { type: "json" }/' node_modules/@shopify/polaris/locales/*.json
 
 # Copier le reste du projet
 COPY . .
