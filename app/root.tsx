@@ -7,7 +7,7 @@ import {
 } from "@remix-run/react";
 
 import { AppProvider } from "@shopify/polaris";
-import frTranslations from "@shopify/polaris/locales/fr.json"; // ou en.json si tu veux en anglais
+//import frTranslations from "@shopify/polaris/locales/fr.json"; // ou en.json si tu veux en anglais
 import "@shopify/polaris/build/esm/styles.css";
 
 export default function App() {
