@@ -1,5 +1,5 @@
 # ---------- STAGE 1: Builder ----------
-FROM node:18-alpine AS builder
+FROM node:20-alpine AS builder
 
 # Installer openssl pour certaines dépendances
 RUN apk add --no-cache openssl bash
