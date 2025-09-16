@@ -15,9 +15,6 @@ RUN npm ci
 # Correction Shopify App Remix
 RUN sed -i "s/with { type: 'json' }//" node_modules/@shopify/shopify-app-remix/dist/esm/react/components/AppProvider/AppProvider.mjs
 
-# Correction Polaris (locales JSON)
-RUN sed -i 's/with { type: "json" }/assert { type: "json" }/' node_modules/@shopify/polaris/locales/*.json
-
 # Copier le reste du projet
 COPY . .
 
@@ -35,6 +32,7 @@ WORKDIR /app
 # Variables d'environnement
 ENV NODE_ENV=production
 ENV PORT=3000
+ENV NODE_OPTIONS="--experimental-json-modules"
 
 # Copier les dépendances de production
 COPY --from=builder /app/node_modules ./node_modules
