@@ -15,6 +15,11 @@ RUN npm ci
 # Correction Shopify App Remix
 RUN sed -i "s/with { type: 'json' }//" node_modules/@shopify/shopify-app-remix/dist/esm/react/components/AppProvider/AppProvider.mjs
 
+RUN find node_modules/@shopify/polaris/locales -name "*.json" -exec \
+    sed -i '1s/^/export default /' {} \; && \
+    find node_modules/@shopify/polaris/locales -name "*.json" -exec \
+    sed -i 's/$/ assert { type: "json" };/' {} \;
+
 # Copier le reste du projet
 COPY . .
 
