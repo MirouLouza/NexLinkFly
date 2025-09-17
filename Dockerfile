@@ -15,15 +15,13 @@ RUN npm ci
 # Correction Shopify App Remix
 RUN sed -i "s/with { type: 'json' }//" node_modules/@shopify/shopify-app-remix/dist/esm/react/components/AppProvider/AppProvider.mjs
 
-# Patch Polaris JSON imports
+ Patch Polaris JSON imports
 RUN grep -rl '@shopify/polaris/locales/' node_modules/@shopify/polaris \
   | xargs sed -i 's/from "\(.*polaris\/locales\/.*\.json\)"/from "\1" assert { type: "json" }/g'
-  
-RUN grep -rl "with { type: 'json' }" node_modules/@shopify/polaris \
-  | xargs sed -i'' "s/ with { type: 'json' }//g"
 
-RUN grep -rl "with { type: 'json' }" node_modules/@shopify/shopify-app-remix \
-  | xargs sed -i'' "s/ with { type: 'json' }//g"
+# Patch Shopify App Remix JSON imports
+RUN grep -rl '@shopify/polaris/locales/' node_modules/@shopify/shopify-app-remix \
+  | xargs sed -i 's/from "\(.*polaris\/locales\/.*\.json\)"/from "\1" assert { type: "json" }/g'
 
 # Copier le reste du projet
 COPY . .
