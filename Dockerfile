@@ -56,4 +56,5 @@ COPY --from=builder /app/app ./app
 EXPOSE 3000
 
 # Lancer le serveur Remix
-CMD ["npm", "run", "start"]
+CMD ["npx", "remix-serve", "./build/index.js", "--port", "3000", "--host", "0.0.0.0"]
+
