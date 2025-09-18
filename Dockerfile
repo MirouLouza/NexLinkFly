@@ -31,9 +31,9 @@ RUN npm run setup
 RUN npm run build
 
 # ---------- STAGE 2: Production ----------
-FROM node:20-alpine
+FROM node:20 
 
-RUN apk add --no-cache openssl bash
+RUN apt-get update -y && apt-get install -y openssl bash
 
 WORKDIR /app
 
