@@ -15,7 +15,11 @@ RUN npm ci
 # Correction Shopify App Remix
 RUN sed -i "s/with { type: 'json' }//" node_modules/@shopify/shopify-app-remix/dist/esm/react/components/AppProvider/AppProvider.mjs
 
-RUN find node_modules/@shopify/polaris -type f -name "*.json" || echo "❌ Aucun JSON trouvé dans Polaris"
+# Nouveau patch correct pour ta version de Polaris
+RUN find node_modules/@shopify/polaris -type f -name "*.mjs" \
+  -exec sed -i 's/from "\(.*@shopify\/polaris\/locales\/.*\.json\)"/from "\1" assert { type: "json" }/g' {} +
+
+RUN grep -R 'assert { type: "json" }' node_modules/@shopify/polaris/locales || echo "❌ Patch Polaris non appliqué"
 
 # Copier le reste du projet
 COPY . .
