@@ -51,5 +51,10 @@ COPY --from=builder /app/app ./app
 # Exposer le port attendu par Fly.io
 EXPOSE 3000
 
+# Patch Polaris JSON imports dans prod
+RUN find node_modules/@shopify/shopify-app-remix -type f -name "*.mjs" \
+  -exec sed -i 's/from "\(.*@shopify\/polaris\/locales\/.*\.json\)"/from "\1" assert { type: "json" }/g' {} +
+RUN grep -R 'assert { type: "json" }' node_modules/@shopify/shopify-app-remix || echo "❌ Patch Polaris non appliqué"
+
 # Lancer le serveur Remix
 CMD ["sh", "-c", "npx prisma migrate deploy && npx remix-serve ./build/index.js --port 3000 --host 0.0.0.0"]
