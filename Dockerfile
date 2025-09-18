@@ -23,6 +23,9 @@ RUN grep -rl '@shopify/polaris/locales/' node_modules/@shopify/polaris \
 RUN grep -rl '@shopify/polaris/locales/' node_modules/@shopify/shopify-app-remix \
   | xargs sed -i 's/from "\(.*polaris\/locales\/.*\.json\)"/from "\1" assert { type: "json" }/g'
 
+RUN grep -R "assert { type: \"json\" }" node_modules/@shopify/polaris/locales || echo "❌ Patch Polaris non appliqué"
+
+
 # Copier le reste du projet
 COPY . .
 
