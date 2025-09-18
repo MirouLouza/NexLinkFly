@@ -50,7 +50,7 @@ EXPOSE 3000
 # Remettre "with { type: 'json' }" avant le lancement
 RUN sed -i "s/.json'/.json' with { type: 'json' }/" node_modules/@shopify/shopify-app-remix/dist/esm/react/components/AppProvider/AppProvider.mjs
 
-RUN grep -R "with { type: \"json\" }" node_modules/@shopify/shopify-app-remix/dist/esm/react/components/AppProvider/AppProvider.mjs || echo "❌ Patch non appliqué"
+RUN grep -R "with { type: 'json' }" node_modules/@shopify/shopify-app-remix/dist/esm/react/components/AppProvider/AppProvider.mjs || echo "❌ Patch non appliqué"
 
 # Lancer le serveur Remix
 CMD ["sh", "-c", "npx prisma migrate deploy && npx remix-serve ./build/index.js --port 3000 --host 0.0.0.0"]
