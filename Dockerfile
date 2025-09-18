@@ -48,7 +48,7 @@ COPY --from=builder /app/app ./app
 EXPOSE 3000
 
 # Remettre "with { type: 'json' }" avant le lancement
-RUN sed -i 's/from "\(.*polaris\/locales\/.*\.json\)"/from "\1" with { type: "json" }/g' node_modules/@shopify/shopify-app-remix/dist/esm/react/components/AppProvider/AppProvider.mjs
+RUN sed -i "s/.json'/.json' with { type: 'json' }/" node_modules/@shopify/shopify-app-remix/dist/esm/react/components/AppProvider/AppProvider.mjs
 
 RUN grep -R "with { type: \"json\" }" node_modules/@shopify/shopify-app-remix/dist/esm/react/components/AppProvider/AppProvider.mjs || echo "❌ Patch non appliqué"
 
