@@ -18,7 +18,7 @@ RUN sed -i "s/with { type: 'json' }//" node_modules/@shopify/shopify-app-remix/d
 RUN find node_modules/@shopify/polaris -type f -name "*.mjs" \
   -exec sed -i 's/from "\(.*\.json\)"/from "\1" assert { type: "json" }/g' {} +
   
-RUN grep -R 'assert { type: "json" }' node_modules/@shopify/polaris || echo "❌ Patch Polaris non appliqué"
+RUN grep -R 'assert { type: "json" }' node_modules/@shopify/polaris || echo "❌ Patch Polaris*** non appliqué"
 
 
 # Copier le reste du projet
