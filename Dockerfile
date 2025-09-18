@@ -15,15 +15,15 @@ RUN npm ci
 # Correction Shopify App Remix
 RUN sed -i "s/with { type: 'json' }//" node_modules/@shopify/shopify-app-remix/dist/esm/react/components/AppProvider/AppProvider.mjs
 
-# Patch Polaris JSON imports
-RUN grep -rl '@shopify/polaris/locales/' node_modules/@shopify/polaris \
-  | xargs sed -i 's/from "\(.*polaris\/locales\/.*\.json\)"/from "\1" assert { type: "json" }/g'
+# Patch tous les imports JSON en ajoutant "assert { type: 'json' }"
+RUN find node_modules/@shopify/polaris -type f -name "*.mjs" \
+  -exec sed -i 's/from "\(.*\.json\)"/from "\1" assert { type: "json" }/g' {} +
 
-# Patch Shopify App Remix JSON imports
-RUN grep -rl '@shopify/polaris/locales/' node_modules/@shopify/shopify-app-remix \
-  | xargs sed -i 's/from "\(.*polaris\/locales\/.*\.json\)"/from "\1" assert { type: "json" }/g'
+RUN find node_modules/@shopify/shopify-app-remix -type f -name "*.mjs" \
+  -exec sed -i 's/from "\(.*\.json\)"/from "\1" assert { type: "json" }/g' {} +
 
-RUN grep -R "assert { type: \"json\" }" node_modules/@shopify/polaris/locales || echo "❌ Patch Polaris non appliqué"
+# Vérification debug
+RUN grep -R "assert { type: \"json\" }" node_modules/@shopify/polaris/dist/esm/locales || echo "❌ Patch Polaris toujours non appliqué"
 
 
 # Copier le reste du projet
