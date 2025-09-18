@@ -12,14 +12,8 @@ COPY package.json package-lock.json* ./
 # Installer toutes les dépendances
 RUN npm ci
 
-# Patch Polaris JSON imports dans shopify-app-remix
-RUN FILES=$(find node_modules/@shopify/shopify-app-remix -type f -name "*.mjs") && \
-    for f in $FILES; do \
-        sed -i 's/from "\(.*@shopify\/polaris\/locales\/.*\.json\)"/from "\1" assert { type: "json" }/g' "$f"; \
-    done
-
-# Vérification
-RUN grep -R 'assert { type: "json" }' node_modules/@shopify/shopify-app-remix || echo "❌BUILD: Patch non appliqué"
+# Correction Shopify App Remix
+RUN sed -i "s/with { type: 'json' }//" node_modules/@shopify/shopify-app-remix/dist/esm/react/components/AppProvider/AppProvider.mjs
 
 # Copier le reste du projet
 COPY . .
@@ -53,14 +47,8 @@ COPY --from=builder /app/app ./app
 # Exposer le port attendu par Fly.io
 EXPOSE 3000
 
-# Patch Polaris JSON imports dans shopify-app-remix
-RUN FILES=$(find node_modules/@shopify/shopify-app-remix -type f -name "*.mjs") && \
-    for f in $FILES; do \
-        sed -i 's/from "\(.*@shopify\/polaris\/locales\/.*\.json\)"/from "\1" assert { type: "json" }/g' "$f"; \
-    done
-
-# Vérification
-RUN grep -R 'assert { type: "json" }' node_modules/@shopify/shopify-app-remix || echo "❌PROD: Patch non appliqué"
+# Remettre "with { type: 'json' }" avant le lancement
+RUN sed -i 's/from "\(.*polaris\/locales\/.*\.json\)"/from "\1" with { type: "json" }/g' node_modules/@shopify/shopify-app-remix/dist/esm/react/components/AppProvider/AppProvider.mjs
 
 # Lancer le serveur Remix
 CMD ["sh", "-c", "npx prisma migrate deploy && npx remix-serve ./build/index.js --port 3000 --host 0.0.0.0"]
