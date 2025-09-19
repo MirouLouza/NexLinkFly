@@ -11,6 +11,8 @@ COPY package.json package-lock.json* ./
 
 # Installer toutes les dépendances
 RUN npm ci
+
+# Suite change mode NPM
 RUN npm remove @shopify/cli
 
 
