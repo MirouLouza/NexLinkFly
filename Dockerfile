@@ -11,6 +11,8 @@ COPY package.json package-lock.json* ./
 
 # Installer toutes les dépendances
 RUN npm ci
+RUN npm remove @shopify/cli
+
 
 # Correction Shopify App Remix
 RUN sed -i "s/with { type: 'json' }//" node_modules/@shopify/shopify-app-remix/dist/esm/react/components/AppProvider/AppProvider.mjs
@@ -53,4 +55,7 @@ RUN sed -i "s/.json'/.json' with { type: 'json' }/" node_modules/@shopify/shopif
 RUN grep -R "with { type: 'json' }" node_modules/@shopify/shopify-app-remix/dist/esm/react/components/AppProvider/AppProvider.mjs || echo "❌ Patch non appliqué"
 
 # Lancer le serveur Remix
-CMD ["sh", "-c", "npx prisma migrate deploy && npx remix-serve ./build/index.js --port 3000 --host 0.0.0.0"]
+RUN npm run build
+
+CMD ["npm", "run", "docker-start"]
+
