@@ -10,7 +10,7 @@ import {
   Text,
   TextField,
 } from "@shopify/polaris";
-import polarisStyles from "@shopify/polaris/build/esm/styles.css?url";
+import polarisStyles from "@shopify/polaris/build/esm/styles.css";
 
 import { login } from "../../shopify.server";
 
