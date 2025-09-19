@@ -54,8 +54,5 @@ RUN sed -i "s/.json'/.json' with { type: 'json' }/" node_modules/@shopify/shopif
 
 RUN grep -R "with { type: 'json' }" node_modules/@shopify/shopify-app-remix/dist/esm/react/components/AppProvider/AppProvider.mjs || echo "❌ Patch non appliqué"
 
-# Lancer le serveur Remix
-RUN npm run build
 
 CMD ["npm", "run", "docker-start"]
-
